@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://effective-methods-776328.framer.app/sitemap.xml
