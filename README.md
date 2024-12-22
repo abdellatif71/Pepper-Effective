@@ -46,6 +46,5 @@ Pepper wurde entwickelt, um Pizzaliebhabern und kleinen Unternehmen eine profess
 🧑‍💻 Autor
 Erstellt von Abdellatif Abouelabbes
 
-GitHub
 Portfolio
 📧 abouabdellatif.9@gmail.com
