@@ -42,6 +42,8 @@ Dieses Projekt ist unter der MIT-Lizenz lizenziert. Weitere Informationen findes
 
 💡 Über das Projekt
 Pepper wurde entwickelt, um Pizzaliebhabern und kleinen Unternehmen eine professionelle Webpräsenz zu bieten. Egal ob du ein Restaurantbesitzer bist oder einfach nur Pizza liebst – Pepper ist die perfekte Vorlage für dich!
+💡 Über das Projekt
+Pepper wurde entwickelt, um Pizzaliebhabern und kleinen Unternehmen eine professionelle Webpräsenz zu bieten. Egal ob du ein Restaurantbesitzer bist oder einfach nur Pizza liebst – Pepper ist die perfekte Vorlage für dich!
 
 🧑‍💻 Autor
 Erstellt von Abdellatif Abouelabbes
